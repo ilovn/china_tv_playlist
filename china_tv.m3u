@@ -1,149 +1,47 @@
 #EXTM3U
-#EXTINF:-1, group-title="电视台", CCTV1
-http://183.207.249.6/PLTV/3/224/3221225530/index.m3u8
-#EXTINF:-1, group-title="电视台", CCTV3
-http://183.207.249.6/PLTV/3/224/3221225588/index.m3u8
-#EXTINF:-1, group-title="电视台", CCTV4
-http://183.207.249.6/PLTV/3/224/3221225534/index.m3u8
-#EXTINF:-1, group-title="电视台", CCTV5
-http://183.207.249.6/PLTV/3/224/3221225644/index.m3u8
+#EXTINF:-1, group-title="电视台", CCTV1－HD
+http://202.195.240.8/hls/cctv1hd.m3u8
+#EXTINF:-1, group-title="电视台", CCTV3-HD
+http://202.195.240.8/hls/cctv3hd.m3u8
+#EXTINF:-1, group-title="电视台", CCTV5-HD
+http://202.195.240.8/hls/cctv5hd.m3u8
 #EXTINF:-1, group-title="电视台", CCTV5+HD
-http://183.207.249.6/PLTV/3/224/3221225604/index.m3u8
+http://202.195.240.8/hls/cctv5phd.m3u8
 #EXTINF:-1, group-title="电视台", CCTV6HD
-http://183.207.249.6/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1, group-title="电视台", CCTV7
-http://183.207.249.6/PLTV/3/224/3221225546/index.m3u8
+http://202.195.240.8/hls/cctv6hd.m3u8
 #EXTINF:-1, group-title="电视台", CCTV8HD
-http://183.207.249.6/PLTV/3/224/3221225542/index.m3u8
-#EXTINF:-1, group-title="电视台", CCTV9
-http://183.207.249.6/PLTV/3/224/3221225532/index.m3u8
-#EXTINF:-1, group-title="电视台", CCTV9
-http://183.207.249.6/PLTV/3/224/3221225572/index.m3u8
-#EXTINF:-1, group-title="电视台", CCTV10
-http://183.207.249.6/PLTV/3/224/3221225550/index.m3u8
-#EXTINF:-1, group-title="电视台", CCTV11
-http://183.207.249.6/PLTV/3/224/3221225552/index.m3u8
-#EXTINF:-1, group-title="电视台", CCTV12
-http://183.207.249.6/PLTV/3/224/3221225556/index.m3u8
-#EXTINF:-1, group-title="电视台", CCTV13
-http://183.207.249.6/PLTV/3/224/3221225560/index.m3u8
-#EXTINF:-1, group-title="电视台", CCTV14
-http://183.207.249.6/PLTV/3/224/3221225564/index.m3u8
-#EXTINF:-1, group-title="电视台", CCTV14
-http://183.207.249.6/PLTV/3/224/3221225568/index.m3u8
-#EXTINF:-1, group-title="电视台", CETV1
-http://183.207.249.6/PLTV/3/224/3221225622/index.m3u8
-#EXTINF:-1, group-title="电视台", 深圳卫视HD
-http://183.207.249.6/PLTV/3/224/3221225582/index.m3u8
-#EXTINF:-1, group-title="电视台", 山东卫视HD
-http://183.207.249.6/PLTV/3/224/3221225596/index.m3u8
+http://202.195.240.8/hls/cctv8hd.m3u8
+#EXTINF:-1, group-title="电视台", CHC高清电影
+http://202.195.240.8/hls/chchd.m3u8
+#EXTINF:-1, group-title="电视台", 北京卫视HD
+http://202.195.240.8/hls/btv1hd.m3u8
+#EXTINF:-1, group-title="电视台", 北京文艺HD
+http://202.195.240.8/hls/btv2hd.m3u8
+#EXTINF:-1, group-title="电视台", 北京体育HD
+http://202.195.240.8/hls/btv6hd.m3u8
+#EXTINF:-1, group-title="电视台", 北京纪实HD
+http://202.195.240.8/hls/btv11hd.m3u8
+#EXTINF:-1, group-title="电视台", 湖南卫视HD
+http://202.195.240.8/hls/hunanhd.m3u8
+#EXTINF:-1, group-title="电视台", 浙江卫视HD
+http://202.195.240.8/hls/zjhd.m3u8
+#EXTINF:-1, group-title="电视台", 江苏卫视HD
+http://202.195.240.8/hls/jshd.m3u8
 #EXTINF:-1, group-title="电视台", 东方卫视HD
-http://183.207.249.6/PLTV/3/224/3221225558/index.m3u8
+http://202.195.240.8/hls/dfhd.m3u8
+#EXTINF:-1, group-title="电视台", 安徽卫视HD
+http://202.195.240.8/hls/ahhd.m3u8
+#EXTINF:-1, group-title="电视台", 黑龙江卫视HD
+http://202.195.240.8/hls/hljhd.m3u8
+#EXTINF:-1, group-title="电视台", 辽宁卫视HD
+http://202.195.240.8/hls/lnhd.m3u8
+#EXTINF:-1, group-title="电视台", 深圳卫视HD
+http://202.195.240.8/hls/szhd.m3u8
 #EXTINF:-1, group-title="电视台", 广东卫视HD
-http://183.207.249.6/PLTV/3/224/3221225592/index.m3u8
-#EXTINF:-1, group-title="电视台", 湖南卫视HD
-http://183.207.249.6/PLTV/3/224/3221225521/index.m3u8
-#EXTINF:-1, group-title="电视台", 湖南卫视HD
-http://183.207.249.6/PLTV/3/224/3221225584/index.m3u8
-#EXTINF:-1, group-title="电视台", 安徽卫视
-http://183.207.249.6/PLTV/3/224/3221225634/index.m3u8
-#EXTINF:-1, group-title="电视台", 北京卫视
-http://183.207.249.6/PLTV/3/224/3221225574/index.m3u8
-#EXTINF:-1, group-title="电视台", 北京新闻
-http://183.207.249.6/PLTV/3/224/3221225577/index.m3u8
-#EXTINF:-1, group-title="电视台", 东南卫视
-http://183.207.249.6/PLTV/3/224/3221225598/index.m3u8
-#EXTINF:-1, group-title="电视台", 甘肃卫视
-http://183.207.249.6/PLTV/3/224/3221225590/index.m3u8
-#EXTINF:-1, group-title="电视台", 广东卫视
-http://183.207.249.6/PLTV/3/224/3221225578/index.m3u8
-#EXTINF:-1, group-title="电视台", 贵州卫视
-http://183.207.249.6/PLTV/3/224/3221225540/index.m3u8
-#EXTINF:-1, group-title="电视台", 河北卫视
-http://183.207.249.6/PLTV/3/224/3221225602/index.m3u8
-#EXTINF:-1, group-title="电视台", 河南卫视
-http://183.207.249.6/PLTV/3/224/3221225632/index.m3u8
-#EXTINF:-1, group-title="电视台", 湖北卫视
-http://183.207.249.6/PLTV/3/224/3221225630/index.m3u8
-#EXTINF:-1, group-title="电视台", 吉林卫视
-http://183.207.249.6/PLTV/3/224/3221225589/index.m3u8
-#EXTINF:-1, group-title="电视台", 江西卫视
-http://183.207.249.6/PLTV/3/224/3221225536/index.m3u8
-#EXTINF:-1, group-title="电视台", 江西卫视
-http://183.207.249.6/PLTV/3/224/3221225554/index.m3u8
-#EXTINF:-1, group-title="电视台", 辽宁卫视
-http://183.207.249.6/PLTV/3/224/3221225566/index.m3u8
-#EXTINF:-1, group-title="电视台", 旅游卫视
-http://183.207.249.6/PLTV/3/224/3221225585/index.m3u8
-#EXTINF:-1, group-title="电视台", 内蒙古卫视
-http://183.207.249.6/PLTV/3/224/3221225624/index.m3u8
-#EXTINF:-1, group-title="电视台", 宁夏卫视
-http://183.207.249.6/PLTV/3/224/3221225628/index.m3u8
-#EXTINF:-1, group-title="电视台", 青海卫视
-http://183.207.249.6/PLTV/3/224/3221225580/index.m3u8
-#EXTINF:-1, group-title="电视台", 山东卫视
-http://183.207.249.6/PLTV/3/224/3221225586/index.m3u8
-#EXTINF:-1, group-title="电视台", 山西卫视
-http://183.207.249.6/PLTV/3/224/3221225576/index.m3u8
-#EXTINF:-1, group-title="电视台", 陕西卫视
-http://183.207.249.6/PLTV/3/224/3221225626/index.m3u8
-#EXTINF:-1, group-title="电视台", 四川卫视
-http://183.207.249.6/PLTV/3/224/3221225570/index.m3u8
+http://202.195.240.8/hls/gdhd.m3u8
 #EXTINF:-1, group-title="电视台", 天津卫视
-http://183.207.249.6/PLTV/3/224/3221225562/index.m3u8
-#EXTINF:-1, group-title="电视台", 云南卫视
-http://183.207.249.6/PLTV/3/224/3221225591/index.m3u8
-#EXTINF:-1, group-title="电视台", 浙江卫视
-http://183.207.249.6/PLTV/3/224/3221225544/index.m3u8
-#EXTINF:-1, group-title="电视台", 重庆卫视
-http://183.207.249.6/PLTV/3/224/3221225594/index.m3u8
-#EXTINF:-1, group-title="电视台", 新疆卫视
-http://183.207.249.6/PLTV/3/224/3221225523/index.m3u8
-#EXTINF:-1, group-title="电视台", 西藏卫视
-http://183.207.249.6/PLTV/3/224/3221225579/index.m3u8
-#EXTINF:-1, group-title="电视台", 优漫卡通
-http://183.207.249.6/PLTV/3/224/3221225600/index.m3u8
-#EXTINF:-1, group-title="电视台", 风云足球
-http://183.207.249.6/PLTV/3/224/3221225571/index.m3u8
-#EXTINF:-1, group-title="电视台", 完美游戏
-http://183.207.249.6/PLTV/3/224/3221225539/index.m3u8
-#EXTINF:-1, group-title="电视台", 第一财经
-http://183.207.249.6/PLTV/3/224/3221225573/index.m3u8
-#EXTINF:-1, group-title="电视台", 第一剧场
-http://183.207.249.6/PLTV/3/224/3221225587/index.m3u8
-#EXTINF:-1, group-title="电视台", 农业致富
-http://183.207.249.6/PLTV/3/224/3221225537/index.m3u8
-#EXTINF:-1, group-title="电视台", 明星大片
-http://183.207.249.6/PLTV/3/224/3221225535/index.m3u8
-#EXTINF:-1, group-title="电视台", 金牌综艺
-http://183.207.249.6/PLTV/3/224/3221225559/index.m3u8
-#EXTINF:-1, group-title="电视台", 惊悚悬疑
-http://183.207.249.6/PLTV/3/224/3221225561/index.m3u8
-#EXTINF:-1, group-title="电视台", 精品大剧
-http://183.207.249.6/PLTV/3/224/3221225569/index.m3u8
-#EXTINF:-1, group-title="电视台", 精品电影
-http://183.207.249.6/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1, group-title="电视台", 精品记录
-http://183.207.249.6/PLTV/3/224/3221225557/index.m3u8
-#EXTINF:-1, group-title="电视台", 精品体育
-http://183.207.249.6/PLTV/3/224/3221225543/index.m3u8
-#EXTINF:-1, group-title="电视台", 军旅剧场
-http://183.207.249.6/PLTV/3/224/3221225531/index.m3u8
-#EXTINF:-1, group-title="电视台", 军事评论
-http://183.207.249.6/PLTV/3/224/3221225533/index.m3u8
-#EXTINF:-1, group-title="电视台", 家庭剧场
-http://183.207.249.6/PLTV/3/224/3221225549/index.m3u8
-#EXTINF:-1, group-title="电视台", 古装剧场
-http://183.207.249.6/PLTV/3/224/3221225527/index.m3u8
-#EXTINF:-1, group-title="电视台", 海外剧场
-http://183.207.249.6/PLTV/3/224/3221225547/index.m3u8
-#EXTINF:-1, group-title="电视台", 健康有约
-http://183.207.249.6/PLTV/3/224/3221225545/index.m3u8
-#EXTINF:-1, group-title="电视台", 动画
-http://183.207.249.6/PLTV/3/224/3221225541/index.m3u8
-#EXTINF:-1, group-title="电视台", 动画王国
-http://183.207.249.6/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1, group-title="电视台", 动作电影
-http://183.207.249.6/PLTV/3/224/3221225529/index.m3u8
-#EXTINF:-1, group-title="电视台", 爱情喜剧
-http://183.207.249.6/PLTV/3/224/3221225525/index.m3u8
+http://202.195.240.8/hls/tjhd.m3u8
+#EXTINF:-1, group-title="电视台", 湖北卫视
+http://202.195.240.8/hls/hbhd.m3u8
+#EXTINF:-1, group-title="电视台", 山东卫视HD
+http://202.195.240.8/hls/sdhd.m3u8
