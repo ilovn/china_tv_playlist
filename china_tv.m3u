@@ -1,5 +1,59 @@
 #EXTM3U
 #EXTINF:-1, group-title="电视台", CCTV1-HD
+http://183.207.255.190:80/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1, group-title="电视台", 湖南卫视-HD
+http://183.207.255.190:80/live/program/live/hnwshd/4000000/mnf.m3u8
+#EXTINF:-1, group-title="电视台", 北京卫视1080P
+http://183.207.255.190:80/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1, group-title="电视台", 江苏卫视1080P
+http://183.207.255.190:80/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1, group-title="电视台", 浙江卫视1080P
+http://183.207.255.190:80/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1, group-title="电视台", 深圳卫视1080P
+http://183.207.255.190:80/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1, group-title="电视台", 山东卫视1080P
+http://183.207.255.190:80/live/program/live/sdwshd/4000000/mnf.m3u8
+#EXTINF:-1, group-title="电视台", 湖北卫视1080P
+http://183.207.255.190:80/live/program/live/hbwshd/4000000/mnf.m3u8
+#EXTINF:-1, group-title="电视台", 广东卫视1080P
+http://183.207.255.190:80/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1, group-title="电视台", 东方卫视1080P
+http://183.207.255.190:80/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1, group-title="电视台", 黑龙江卫视1080P
+http://183.207.255.190:80/live/program/live/hljwshd/4000000/mnf.m3u8
+#EXTINF:-1, group-title="电视台", 直播1-1080P
+http://183.207.255.190:80/live/program/live/hdnba1/4000000/mnf.m3u8
+#EXTINF:-1, group-title="电视台", 直播2-1080P
+http://183.207.255.190:80/live/program/live/hdnba2/4000000/mnf.m3u8
+#EXTINF:-1, group-title="电视台", 直播3-1080P
+http://183.207.255.190:80/live/program/live/hdnba3/4000000/mnf.m3u8
+#EXTINF:-1, group-title="电视台", 直播4-1080P
+http://183.207.255.190:80/live/program/live/hdnba4/4000000/mnf.m3u8
+#EXTINF:-1, group-title="电视台", 直播5-1080P
+http://183.207.255.190:80/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1, group-title="电视台", 直播6-1080P
+http://183.207.255.190:80/live/program/live/hdnba6/4000000/mnf.m3u8
+#EXTINF:-1, group-title="电视台", 直播7-1080P
+http://183.207.255.190:80/live/program/live/hdnba7/4000000/mnf.m3u8
+#EXTINF:-1, group-title="电视台", 直播8-1080P
+http://183.207.255.190:80/live/program/live/hdnba8/4000000/mnf.m3u8
+#EXTINF:-1, group-title="电视台", 五星体育1080P
+http://183.207.255.190:80/live/program/live/ssty/4000000/mnf.m3u8
+
+#EXTINF:-1, group-title="电视台", 高清翡翠台
+http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8
+#EXTINF:-1, group-title="电视台", 好消息－2
+http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch2-3.m3u8
+#EXTINF:-1, group-title="电视台", 南投新聞台
+http://27.100.64.99:1935/liveedge/smil:live_1_2_iphone.smil/playlist.m3u8
+#EXTINF:-1, group-title="电视台", 香港卫视
+http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
+#EXTINF:-1, group-title="电视台", 星卫娱乐
+http://dlhls.cdn.zhanqi.tv/zqlive/1285_Zloy4_400/index.m3u8#http://s03.ottclub.info:1935/live/c742.stream/playlist.m3u8
+#EXTINF:-1, group-title="电视台", 云林新闻台
+http://27.100.64.99:1935/liveedge/smil:live_1_0_iphone.smil/playlist.m3u8
+
+#EXTINF:-1, group-title="电视台", CCTV1-HD
 http://202.195.240.8/hls/cctv1hd.m3u8
 #EXTINF:-1, group-title="电视台", CCTV3-HD
 http://202.195.240.8/hls/cctv3hd.m3u8
