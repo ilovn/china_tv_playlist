@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1, group-title="电视台", CCTV1
+http://cctv1.vtime.cntv.wscdns.com:8000/live/no/14_/seg0/index.m3u8?AUTH=Ey+ykFYvTYeuWrbQpHVDru4pxalnCi0b2gXFE7Sue8A1GR0qifrrhuXRtSBCG3xZ4Q8JTfjneRyDCGnqXJOfhg==
+#EXTINF:-1, group-title="电视台", CCTV2
+http://cctv2.vtime.cntv.wscdns.com:8000/live/no/204_/seg0/index.m3u8?AUTH=oiEyegg69G1O5OaAGa4sIe4pxalnCi0b2gXFE7Sue8DDnGnwmQZ/nKaS2Jw1KNGZUZUA4ivvqI3u3FPapXn88Q==&uid=default
+#EXTINF:-1, group-title="电视台", CCTV3
+http://cctv3.vtime.cntv.cloudcdn.net:8000/live/no/209_/seg0/index.m3u8?AUTH=s6OcokeMYck+lNCRVh3kKRdhzw0JYxmN9tiZgWaiW5nwNVdm/w1DhdGilHla4LoIveLz1A0u3WhA+FsoH0WGyg==
+#EXTINF:-1, group-title="电视台", CCTV4亚洲
+http://cctv4.vtime.cntv.wscdns.com:8000/live/no/19_/seg0/index.m3u8?AUTH=82s0On6P1a3So2R+Q9EoUFXHfZgqn9DakEinp9ALVVTIh8Y5QyiODR1aIlOjpAUa7AVSStG/hMbaZ93ym37yLg==
+#EXTINF:-1, group-title="电视台", CCTV4欧洲
+http://cctveurope.vtime.cntv.wscdns.com:8000/live/no/9_/seg0/index.m3u8?AUTH=aqlDS2zySFUVJsfMZaRn8kuEJiMeMH9vywq0LgEyquHRfIQJ1NVbhRuXmtuQoXnEY8kdEjDBfRhyHP4/QAkDRA==&uid=default
+#EXTINF:-1, group-title="电视台", CCTV4美洲
+http://cctvamerica.vtime.cntv.wscdns.com:8000/live/no/4_/seg0/index.m3u8?AUTH=v+luHMLNXoCktoVv6+4n9PG3IIKXM56b6jPtjLvTLtgGxoblieD1bV28Nxlf5+8HhCa3cuQp8nTJthigGeCX8Q==
+#EXTINF:-1, group-title="电视台", CCTV7
+http://cctv7.vtime.cntv.wscdns.com:8000/live/no/224_/seg0/index.m3u8?AUTH=Vaja4fhhRk+/ynBjPlNay4cMChSCveuSVbK+10qXwCDdXAJP2S4VGmctZXH1vdhDuG1MUBMH1uKYjYWRAjTHHw==
+#EXTINF:-1, group-title="电视台", CCTV8
+http://cctv8.vtime.cntv.wscdns.com:8000/live/no/229_/seg0/index.m3u8?AUTH=5b3jGM45+GSMU7aN9P7czG+YGDXL5CWajshbcYGuyJyeGw4JfMUKyT8ft35T84EUtKedYqPsGW2odZaEH2um4A==
+#EXTINF:-1, group-title="电视台", CCTV9英
+http://cctvdoc.vtime.cntv.wscdns.com:8000/live/no/299_/seg0/index.m3u8?AUTH=W0XLagL2ZjtMIDNjL0k6OvwSJhrlacLGOmOnS6cQ1e4MvsQy4WIYcUzZpB5TCoTREs5emxkigTL1S8jqjccsnA==
+#EXTINF:-1, group-title="电视台", CCTV10
+http://cctv10.vtime.cntv.wscdns.com:8000/live/no/234_/seg0/index.m3u8?AUTH=orsb017qqFffxy+qJ6l8NEuEJiMeMH9vywq0LgEyquHY5IQRTg9vkXKYg63gZcZRfR0kHP3qmMZLLYjwZVcJ/g==
+#EXTINF:-1, group-title="电视台", CCTV11
+http://cctv11.vtime.cntv.wscdns.com:8000/live/no/239_/seg0/index.m3u8?AUTH=7AEgnqRHoTOn6LBYzgm9UoLcTvz10TJpNca1iiXtJuc69PzkdA+iRa4sHdF5VD76DO2bxUSVff4M6oHI5/Xmow==
+#EXTINF:-1, group-title="电视台", CCTV12
+http://cctv12.vtime.cntv.wscdns.com:8000/live/no/244_/seg0/index.m3u8?AUTH=df+1Q2JeJ3a95kUuq40qs+EjSRaxmz99OfzbhN1PU/1Z200wQKQX8szOhr6URFNIla1BEfW/qahlbkkywJNBhQ==
+#EXTINF:-1, group-title="电视台", CCTV13
+http://cctv13.vtime.cntv.wscdns.com:8000/live/no/24_/seg0/index.m3u8?AUTH=Jf0NDXREksMNMkkL9YJCDNpKUM5HHmmqfEo81R0ijQFweN7ESEvuikgug16iOAyrjsHTRj/4whxrd6VMwIWbCQ==
+#EXTINF:-1, group-title="电视台", CCTV14
+http://cctvchild.vtime.cntv.wscdns.com:8000/live/no/249_/seg0/index.m3u8?AUTH=cjFWCAqMZAMDkF24m+aioH0YH+yGs8lzGj2s2ZvPB3NBt1yXDRksQS7BZW3ulEyGUFXcWS8UnZqL/JcT1EhGMQ==
+#EXTINF:-1, group-title="电视台", CCTV15
+http://cctv15.vtime.cntv.wscdns.com:8000/live/no/254_/seg0/index.m3u8?AUTH=1Sj7ihl10MmlpKh2bvOYt4zRUIWGSlcDtTK9MSOXzeaKc1fcFDdRx2g3EI2k6N0E44ZWoJhPdVoaGkbwjJ8dxg==&uid=default
+#EXTINF:-1, group-title="电视台", CCTV－news
+http://cctv9.vtime.cntv.cloudcdn.net:8000/live/no/49_/seg0/index.m3u8?AUTH=MULHeQWTA2PVz7/EKm6fvYNQESEsZsDT6kisFNtfc4LnFA26dqJcNkhIH/CppeD4J0luXbwFKr0mdyLfNrmsMA==
+
+
+
+
 
 #EXTINF:-1, group-title="电视台", 北京卫视
 http://58.255.78.88/m3u8/bjwsHD_350/desc.m3u8?stream_id=bjwsHD_350&path=120.87.152.152,120.87.152.21&mltag=202&platid=10&splatid=1006&qos=4&fcheck=0&uid=1885274595.rp&keyitem=dpoOd-l3AnupIUuBI8VtFwmKzWltcfnZpngeV5Yo3I1Oleh6yGrbVeKRoRQ.&ntm=1469874000&nkey2=5a714de011c47c5c86ba14ba916722d9&nkey=0956bb4024c9d83692873d26203a2dda&tag=live&video_type=m3u8&useloc=0&mslice=3&uidx=0&errc=0&gn=1177&lrtmcd=101&buss=202&cips=112.95.1.227&geo=CN-19-248-2&tmn=1469863010&pnl=1177,1177,1168,460&ext=m3u8&sign=live_photerne&p1=0&p2=04&termid=2&ostype=android&hwtype=un&playid=1&tm=1469863010&key=0642fb80cc1f3970e6743c7361a5792e&uuid=1863010688974883&station=458&timeshift=-60
@@ -100,7 +136,6 @@ http://120.87.152.151/m3u8/ws_zzzh_350/desc.m3u8?stream_id=ws_zzzh_350&path=120.
 http://58.255.78.93/m3u8/ws_zzss_350/desc.m3u8?stream_id=ws_zzss_350&path=122.13.20.189,124.232.157.202&mltag=202&platid=10&splatid=1006&qos=4&fcheck=0&uid=1885274595.rp&keyitem=dpoOd-l3AnupIUuBI8VtFwmKzWltcfnZpngeV5Yo3I1Oleh6yGrbVeKRoRQ.&ntm=1469875800&nkey2=70cbc71c5bbffc9a33bf1701aac43461&nkey=6412299ebbc8e192bc1c0dcd482b1cf9&tag=live&video_type=m3u8&useloc=0&mslice=3&uidx=0&errc=0&gn=1177&lrtmcd=101&buss=202&cips=112.95.1.227&geo=CN-19-248-2&tmn=1469864808&pnl=1177,1177,1199,409&ext=m3u8&sign=live_photerne&p1=0&p2=04&termid=2&ostype=android&hwtype=un&playid=1&tm=1469864807&key=11b90cb1956d67c7f44b5b93e2965ec5&uuid=1864808123568182&station=1010&timeshift=-60
 #EXTINF:-1, group-title="电视台", 郑州电视剧
 http://112.91.29.37/m3u8/ws_zzdsj_350/desc.m3u8?stream_id=ws_zzdsj_350&path=120.87.152.141,120.87.152.21&mltag=202&platid=10&splatid=1006&qos=4&fcheck=0&uid=1885274595.rp&keyitem=dpoOd-l3AnupIUuBI8VtFwmKzWltcfnZpngeV5Yo3I1Oleh6yGrbVeKRoRQ.&ntm=1469875800&nkey2=c12e02217114bd0ab44a406e4a5d1968&nkey=b9b507e424a160cbc9a65da846de1830&tag=live&video_type=m3u8&useloc=0&mslice=3&uidx=0&errc=0&gn=1129&lrtmcd=101&buss=202&cips=112.95.1.227&geo=CN-19-248-2&tmn=1469864829&pnl=1129,1129,1168,460&ext=m3u8&sign=live_photerne&p1=0&p2=04&termid=2&ostype=android&hwtype=un&playid=1&tm=1469864828&key=62c8d29581492690f50f7dba47192583&uuid=1864829376388073&station=1011&timeshift=-60
-
 
 
 #EXTINF:-1, group-title="电视台", CCTV1-HD
