@@ -1,52 +1,76 @@
-#EXTM3U
+
+EXTM3U
 #EXTINF:-1, group-title="中央电视台", CCTV-1 综合
-https://apps.ilovn.com/tv.php?id=cctv1
+http://cctv1.vtime.cntv.cloudcdn.net:8000/live/no/14_/seg0/index.m3u8?AUTH=F/RUHaCAXmkAaJjhUw+53omF8GCxhJ/HDzLSjXa2YdRsd/vSzPMz1cDtXN9ucpPfLntxOp5KWvHQQZkmc90fKQ==
+
 #EXTINF:-1, group-title="中央电视台", CCTV-2 财经
-https://apps.ilovn.com/tv.php?id=cctv2
+http://cctv2.vtime.cntv.wscdns.com:8000/live/no/204_/seg0/index.m3u8?AUTH=S/jOBetfaYZxvB1GV5YapIfP+rkBhm8rv0czmii/6r4Y14JpjkDHtNGVInxY56O/kY+vn+8dQRbxd3holxDy0A==
+
 #EXTINF:-1, group-title="中央电视台", CCTV-3 综艺
-https://apps.ilovn.com/tv.php?id=cctv3
+http://cctv3.vtime.cntv.wscdns.com:8000/live/no/209_/seg0/index.m3u8?AUTH=runOQ3Z/oSPfA3KUAxf8mQv8XjwoF+7VkOsJjsidWxG+APmnDOQJQI3NG5xiPmk7BP64IzcHQQ5w02HRaOfHTw==
+
 #EXTINF:-1, group-title="中央电视台", CCTV-4 亚洲
-https://apps.ilovn.com/tv.php?id=cctv4
+http://cctv4.vtime.cntv.cloudcdn.net:8000/live/no/19_/seg0/index.m3u8?AUTH=7fjUGaaptRsbwMT686xqA9g4gNsGuqFO1UTY8bvlXRPA5cmxi+r3e6GwDMoO2UYXrh4GGFB4fljbTbhULaUvAA==
+
 #EXTINF:-1, group-title="中央电视台", CCTV-4 欧洲
-https://apps.ilovn.com/tv.php?id=cctveurope
+http://cctveurope.vtime.cntv.wscdns.com:8000/live/no/9_/seg0/index.m3u8?AUTH=tt9dLRrIeaOJ07DoBHkNm0uZZix7Ja6DM70h+FEeXIQLnZR0Tlnybj0cJ4MSSsiulkyFjWQMM0rBevSyPvAkYQ==
+
 #EXTINF:-1, group-title="中央电视台", CCTV-4 美洲
-https://apps.ilovn.com/tv.php?id=cctvamerica
+http://cctvamerica.vtime.cntv.wscdns.com:8000/live/no/4_/seg0/index.m3u8?AUTH=sHDBtcPW5i7V15iug5huq5t7R/sSbPRLXxZkC+cc/L2b89iU2gjWuFhv7cnWXhlgdpCPQaTJF9pnVmFDOgfVxA==
+
 #EXTINF:-1, group-title="中央电视台", CCTV-5 体育
-https://apps.ilovn.com/tv.php?id=cctv5
-#EXTINF:-1, group-title="中央电视台", CCTV-5+ 体育赛事
-https://apps.ilovn.com/tv.php?id=cctv5plus
+http://cctv5.vtime.cntv.wscdns.com:8000/live/no/214_/seg0/index.m3u8?AUTH=yAp+qtclVYdxIX/+l6wQhD7iw1JKvwqXe8lPQiQuxQF0nQ3kdfK2GtsW7cuqfUXv58FscnIPiOOjHYfcZPeC1Q==
+
 #EXTINF:-1, group-title="中央电视台", CCTV-6 电影
-https://apps.ilovn.com/tv.php?id=cctv6
+http://cctv6.vtime.cntv.wscdns.com:8000/live/no/219_/seg0/index.m3u8?AUTH=DH8f9FG2JhN92FpQOo49J3ll5pEoXJNVbceMoTn87hfv2w3aMT9e/qzicxV4H02HKrqbudYaB3iCiesT6fHhcA==
+
 #EXTINF:-1, group-title="中央电视台", CCTV-7 军事农业
-https://apps.ilovn.com/tv.php?id=cctv7
+http://cctv7.vtime.cntv.wscdns.com:8000/live/no/224_/seg0/index.m3u8?AUTH=foJXoeou74bO1Kel6RqTbGPqvk4WHXSgUVpnQSCYreMy8R9yO/kAtHlkihjMb0JzTJZWuDGKMLR88C2NQTuFMA==
+
 #EXTINF:-1, group-title="中央电视台", CCTV-8 电视剧
-https://apps.ilovn.com/tv.php?id=cctv8
+http://cctv8.vtime.cntv.wscdns.com:8000/live/no/229_/seg0/index.m3u8?AUTH=EQb0IAalwrA9Ss8icg+v8ERLodLOGHftz/fbdRKVrpmfgTcHF/WXsNIGbzpQc9KOEo31GGoiueiDvn1nAasnow==
+
 #EXTINF:-1, group-title="中央电视台", CCTV-9 纪录
-https://apps.ilovn.com/tv.php?id=cctvjilu
-#EXTINF:-1, group-title="中央电视台", CCTV-9 记录(英)
-https://apps.ilovn.com/tv.php?id=cctvdoc
+http://cctvjilu.vtime.cntv.wscdns.com:8000/live/no/294_/seg0/index.m3u8?AUTH=Esba8wpS7LH3eMHWrlHKPDnKCREe27dl3g8XtFrW6Imb6joZTDczzKlOngFq6g3TYnZrEs6RRbuE+bSaO8fIVw==
+
+#EXTINF:-1, group-title="中央电视台", CCTV-9 纪录(英)
+http://cctvdoc.vtime.cntv.wscdns.com:8000/live/no/299_/seg0/index.m3u8?AUTH=8bFoCigERV+wlatsIdDszAbCAsOf4AmheJ7Du81QRlUZPKEjb8epo2hsnUwkMrVu0WVJOgQCOjfXqTMje7uNag==
+
 #EXTINF:-1, group-title="中央电视台", CCTV-10 科教
-https://apps.ilovn.com/tv.php?id=cctv10
+http://cctv10.vtime.cntv.wscdns.com:8000/live/no/234_/seg0/index.m3u8?AUTH=qbCUUwqcdtIGsG1QcW9FurCCTZufDZ8WVlYFXImvlkFhYE2t7iodLtD7BDgM+Z/Sa+qO15+7XAe3NfXQ2MxDAw==
+
 #EXTINF:-1, group-title="中央电视台", CCTV-11 戏曲
-https://apps.ilovn.com/tv.php?id=cctv11
+http://cctv11.vtime.cntv.cloudcdn.net:8000/live/no/239_/seg0/index.m3u8?AUTH=VmiNDTmopHZ2/udVljGXiG0WPto4SClmxqOQUmFWn4WhUSVlqBy5HFCjHyDKTKZuaLzy8y+pL/GOG8VAVsl9PQ==
+
 #EXTINF:-1, group-title="中央电视台", CCTV-12 社会与法
-https://apps.ilovn.com/tv.php?id=cctv12
+http://cctv12.vtime.cntv.wscdns.com:8000/live/no/244_/seg0/index.m3u8?AUTH=EUWLfw8EJK9hstikqdqSZ36JE+pOTiZdCLL11vP6Rg/Rx2ntWFQ7ZCtPWvCbOHH1eGziGL/Cu/wdy7bYzOCiTA==
+
 #EXTINF:-1, group-title="中央电视台", CCTV-13 新闻
-https://apps.ilovn.com/tv.php?id=cctv13
+http://cctv13.vtime.cntv.wscdns.com:8000/live/no/24_/seg0/index.m3u8?AUTH=7yiUl66rUeeMyhSJMOf8RMza/6NtqL3b0l8rMLZBNbZaSGJpNYw26VnlurAtThEtYzL+rmlGFcjKPrtsHVbUlQ==
+
 #EXTINF:-1, group-title="中央电视台", CCTV-14 少儿
-https://apps.ilovn.com/tv.php?id=cctvchild
+http://cctvchild.vtime.cntv.wscdns.com:8000/live/no/249_/seg0/index.m3u8?AUTH=NIXeH7u1tVeQF5sLyszYiVrrJU6G8DsX8MW/kdsWO2dwDb+PGKKxjEV/rhP/5IebXqHSpuZ1ZNVFmHlFbaOYaw==
+
 #EXTINF:-1, group-title="中央电视台", CCTV-15 音乐
-https://apps.ilovn.com/tv.php?id=cctv15
+http://cctv15.vtime.cntv.wscdns.com:8000/live/no/254_/seg0/index.m3u8?AUTH=uI9HJrb/lehx4znfUVquu8wW0nNfuavfnpqcCY40pj/Tw+S4PydZox3taNB4xAWGFeDmN+ud9g/AzFuDIv4U8w==
+
 #EXTINF:-1, group-title="中央电视台", CCTV-NEWS
-https://apps.ilovn.com/tv.php?id=cctv9
+http://cctv9.vtime.cntv.wscdns.com:8000/live/no/49_/seg0/index.m3u8?AUTH=U4Q3uAZc4nbphlJObAEoWUbagNwt+BonmltVWtw1yLNJVJLLAj0UBxWWKBaxF87rBmp3ZkHwSA49YfBZPQRfFA==
+
 #EXTINF:-1, group-title="中央电视台", CCTV-Español
-https://apps.ilovn.com/tv.php?id=cctvxiyu
+http://cctvxiyu.vtime.cntv.wscdns.com:8000/live/no/44_/seg0/index.m3u8?AUTH=heR0T5Tphojw0H6Hc19Q3Oj3sYTF8H54xz4RTLMDSUPIDKXAa0SoZjerrqCaPj2qdYHho6yhN4/N41FV1tOwHg==
+
 #EXTINF:-1, group-title="中央电视台", CCTV-Français
-https://apps.ilovn.com/tv.php?id=cctvfrench
+http://cctvfrench.vtime.cntv.wscdns.com:8000/live/no/29_/seg0/index.m3u8?AUTH=rKk6F74gBkTJqluFtGJk3DoQ3EShQDjZfkNdVE9Xbzml/Z0lEGrmPRSPrYe2G6Y6kd9er5Qabkp/ZPj+RkiLKw==
+
 #EXTINF:-1, group-title="中央电视台", CCTV-العربية
-https://apps.ilovn.com/tv.php?id=cctvarabic
+http://cctvarabic.vtime.cntv.wscdns.com:8000/live/no/34_/seg0/index.m3u8?AUTH=uT8q+a2N4ZnhTMYXpiiOn0Vp8xhf1wc6Pkr452qoE13jYGQO8BSvtcarA/UaLbaZ0S8QmPzZyLbAV8GHJLJErg==
+
 #EXTINF:-1, group-title="中央电视台", CCTV-Русский
-https://apps.ilovn.com/tv.php?id=cctvrussian
+http://cctvrussian.vtime.cntv.wscdns.com:8000/live/no/39_/seg0/index.m3u8?AUTH=uKEXhjc3vwHrrLVnYUat7qCCN8yRVLDEvjs+0GRkfQl/RR1VSpzsTp0o3JQOjmo1OIoWiPfjf+Uv/S679B1J/Q==
+
+#EXTINF:-1, group-title="中央电视台", CCTV-5+ 体育赛事
+http://cctv5plus.vtime.cntv.wscdns.com:8000/live/no/259_/seg0/index.m3u8?AUTH=8asdj/OzfmzQwHbHso735dvnOgsUzvCtApXgeq4uHnN4oFTbJb7ej+ywEYOaqY/rRi0XwfczCglKiBLI+SB+bw==
 
 
 
